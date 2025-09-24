@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb7b4626c74da54888a7bb4fb76052f, type: 3}
+  m_Name: TextEventDatas
+  m_EditorClassIdentifier: 
+  TextEvents:
+  - TextEventType: 1
+    TextEventDatas:
+    - NotAnswer: 0
+      Duration: 0.05
+  - TextEventType: 2
+    TextEventDatas:
+    - NotAnswer: 1
+      Duration: 0.05
+  - TextEventType: 3
+    TextEventDatas:
+    - NotAnswer: 0
+      Duration: 0.05
+  - TextEventType: 4
+    TextEventDatas:
+    - NotAnswer: 1
+      Duration: 0.05
+  - TextEventType: 5
+    TextEventDatas:
+    - NotAnswer: 0
+      Duration: 0.05

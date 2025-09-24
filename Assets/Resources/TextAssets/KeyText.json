@@ -1,0 +1,162 @@
+{ "KeyTexts" : [
+
+  {
+		"TextEventType": "Title", 
+		"Text": "ゲームをプレイする？", 
+		"SelectA": "プレイする", 
+		"SelectB": "まだプレイしない", 
+		"Answer": "プレイする"
+  },
+
+  {
+		"TextEventType": "Failed", 
+		"Text": "もう一度プレイする？", 
+		"SelectA": "もう一度プレイする", 
+		"SelectB": "タイトルに戻る", 
+		"Answer": "タイトルに戻る"
+  },
+
+  {
+		"TextEventType": "Q1", 
+		"Text": "現行の高等学校設置基準によると、日本の高校に必ずないといけないのは？", 
+		"SelectA": "校長室", 
+		"SelectB": "図書室", 
+		"Answer": "図書室"
+  },
+
+  {
+		"TextEventType": "Q2", 
+		"Text": "次のオリンピック競技のうち、男子が参加可能なのは？", 
+		"SelectA": "アーティスティックスイミング", 
+		"SelectB": "新体操", 
+		"Answer": "アーティスティックスイミング"
+  },
+
+  {
+		"TextEventType": "Q3", 
+		"Text": "少額投資非課税制度のNISA。1文字目の「N」は何の頭文字？", 
+		"SelectA": "National", 
+		"SelectB": "Nippon", 
+		"Answer": "Nippon"
+  },
+
+  {
+		"TextEventType": "Q4", 
+		"Text": "国産のキウイフルーツが旬を迎えるのは？", 
+		"SelectA": "冬から春", 
+		"SelectB": "夏から秋", 
+		"Answer": "冬から春"
+  },
+
+  {
+		"TextEventType": "Q5", 
+		"Text": "アメリカで最高気温が100°Fの日。日本だったら？", 
+		"SelectA": "真夏日", 
+		"SelectB": "猛暑日", 
+		"Answer": "猛暑日"
+  },
+
+  {
+		"TextEventType": "Q6", 
+		"Text": "南極点で、白夜は1年に何日訪れる？", 
+		"SelectA": "約90日", 
+		"SelectB": "約180日", 
+		"Answer": "約180日"
+  },
+
+  {
+		"TextEventType": "Q7", 
+		"Text": "お米の一種「ジャスミンライス」の名前の由来となったのは、ジャスミンの花のどこ？", 
+		"SelectA": "色", 
+		"SelectB": "味", 
+		"Answer": "色"
+  },
+
+  {
+		"TextEventType": "Q8", 
+		"Text": "日本近海を流れる「千島海流」「リマン海流」は……", 
+		"SelectA": "寒流", 
+		"SelectB": "暖流", 
+		"Answer": "寒流"
+  },
+
+  {
+		"TextEventType": "Q9", 
+		"Text": "九州にある県の数は？", 
+		"SelectA": "6", 
+		"SelectB": "7", 
+		"Answer": "7"
+  },
+
+  {
+		"TextEventType": "Q10", 
+		"Text": "サツマイモとカボチャ、水に浮くのはどっち？", 
+		"SelectA": "サツマイモ", 
+		"SelectB": "カボチャ", 
+		"Answer": "カボチャ"
+  },
+
+  {
+		"TextEventType": "", 
+		"Text": "", 
+		"SelectA": "", 
+		"SelectB": "", 
+		"Answer": ""
+  },
+
+  {
+		"TextEventType": "", 
+		"Text": "", 
+		"SelectA": "", 
+		"SelectB": "", 
+		"Answer": ""
+  },
+
+  {
+		"TextEventType": "", 
+		"Text": "", 
+		"SelectA": "", 
+		"SelectB": "", 
+		"Answer": ""
+  },
+
+  {
+		"TextEventType": "", 
+		"Text": "", 
+		"SelectA": "", 
+		"SelectB": "", 
+		"Answer": ""
+  },
+
+  {
+		"TextEventType": "", 
+		"Text": "", 
+		"SelectA": "", 
+		"SelectB": "", 
+		"Answer": ""
+  },
+
+  {
+		"TextEventType": "", 
+		"Text": "", 
+		"SelectA": "", 
+		"SelectB": "", 
+		"Answer": ""
+  },
+
+  {
+		"TextEventType": "", 
+		"Text": "", 
+		"SelectA": "", 
+		"SelectB": "", 
+		"Answer": ""
+  },
+
+  {
+		"TextEventType": "", 
+		"Text": "", 
+		"SelectA": "", 
+		"SelectB": "", 
+		"Answer": ""
+  }
+]}
